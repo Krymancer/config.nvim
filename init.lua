@@ -1,3 +1,4 @@
-require("options")
-require("autocmd")
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+
 require("lazynvim")

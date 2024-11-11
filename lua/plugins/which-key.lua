@@ -22,6 +22,7 @@ return {
 			{ "<leader>w", group = "[W]orkspace" },
 			{ "<leader>w_", hidden = true },
 			{ "<leader>h", desc = "Git [H]unk", mode = "v" },
+			{ "<leader>j", desc = "Open Terminal", mode = "n" },
 		})
 	end,
 }

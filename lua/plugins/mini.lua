@@ -11,6 +11,7 @@ return {
 		require("mini.diff").setup()
 		require("mini.git").setup()
 		require("mini.tabline").setup()
+		require("mini.icons").setup()
 
 		-- require("mini.files").setup()
 		local statusline = require("mini.statusline")
